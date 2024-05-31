@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63394026372",
+    "firebase_url": "https://words-65ded-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "words-65ded",
+    "storage_bucket": "words-65ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63394026372:android:ca1c464f307636c7ec83d1",
+        "android_client_info": {
+          "package_name": "solutions.bundle.bobolingo.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63394026372-iosm0f95qj4hvl47d511725km5nvb1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUg2_zfHHkY7L6Mvd30cv1sniy_S4mOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63394026372-iosm0f95qj4hvl47d511725km5nvb1jj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63394026372-14viphe03gv4kog9rue0lu78nh5308t9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "solutions.bundle.words"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
