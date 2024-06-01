@@ -60,6 +60,9 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3")
 
+    //Image slider
+    implementation("io.coil-kt:coil-compose:1.4.0")
+
     //  Firebase platform
     implementation(platform("com.google.firebase:firebase-bom:33.1.0"))
     //  Firestore
